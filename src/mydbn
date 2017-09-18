@@ -1,0 +1,5 @@
+#!/bin/bash
+# My first script
+#THEANO_FLAGS=blas.ldflags=-lgoto python src/CAE_regressor.py
+#THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python src/Location_Map.py
+THEANO_FLAGS=device=gpu,floatX=float32 python lstm.py

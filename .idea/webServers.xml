@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e7838ebd-54d9-4584-bdf4-068dfff041ee" name="titan3p (project level)" url="http://172.16.26.176">
+        <fileTransfer host="172.16.26.176" port="22" rootFolder="/home/titan" accessType="SFTP" password="df9bdf98df99df9edf9f" username="titan">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

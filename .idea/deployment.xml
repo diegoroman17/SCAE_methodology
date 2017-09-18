@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="titan" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="Copy of project-level server 'mulhacen'">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/test_deploy" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mulhacen">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/test_deploy" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="titan">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/pru3" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="titan3p">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/rnn-vibration" local="$PROJECT_DIR$/../../Chile" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/rnn-vibration/data" />
+            <excludedPath path="/rnn-vibration/save" />
+            <excludedPath path="/rnn-vibration/svg" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="titan3p (project level)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/rnn-vibration" local="$PROJECT_DIR$/../../Chile" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/rnn-vibration/data" />
+            <excludedPath path="/rnn-vibration/save" />
+            <excludedPath path="/rnn-vibration/svg" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+#!/bin/bash
+# My first script
+#THEANO_FLAGS=blas.ldflags=-lgoto python src/CAE_regressor.py
+#THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python src/Location_Map.py
+#THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python src/lstm.py
+THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python3 src/SCAE_kfold.py
+#THEANO_FLAGS=mode=FAST_RUN,device=gpu,floatX=float32 python3 check1.py
+#/usr/local/cuda-7.5/samples/1_Utilities/deviceQuery/./deviceQuery

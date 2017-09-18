@@ -1,0 +1,15 @@
+Using gpu device 0: Tesla K40c (CNMeM is disabled, cuDNN 4007)
+/home/dcabrera/myvenv/lib64/python3.4/site-packages/theano/tensor/signal/downsample.py:6: UserWarning: downsample module has been moved to the theano.tensor.signal.pool module.
+  "downsample module has been moved to the theano.tensor.signal.pool module.")
+src/SCAE_kfold.py:277: UserWarning: The Param class is deprecated. Replace Param(default=N) by theano.In(value=N)
+  theano.Param(corruption_level, default=0.2),
+src/SCAE_kfold.py:278: UserWarning: The Param class is deprecated. Replace Param(default=N) by theano.In(value=N)
+  theano.Param(learning_rate, default=0.1)
+src/SCAE_kfold.py:277: UserWarning: The Param class is deprecated. Replace Param(default=N) by theano.In(value=N)
+  theano.Param(corruption_level, default=0.2),
+src/SCAE_kfold.py:278: UserWarning: The Param class is deprecated. Replace Param(default=N) by theano.In(value=N)
+  theano.Param(learning_rate, default=0.1)
+src/SCAE_kfold.py:295: UserWarning: The Param class is deprecated. Replace Param(default=N) by theano.In(value=N)
+  theano.Param(corruption_level, default=0.2),
+src/SCAE_kfold.py:296: UserWarning: The Param class is deprecated. Replace Param(default=N) by theano.In(value=N)
+  theano.Param(learning_rate, default=0.1)
